@@ -1,0 +1,25 @@
+a) (+46) + (+29)
+
+Operand A: 46 = 00101110
+Operand B: 29 = 00011101
+
+Binary addition:
+  00101110
++ 00011101
+----------
+Binary result : 01001011
+Decimal result: 75
+Overflow      : No
+
+b) (-48) - (-23)
+
+Operand A: -48 = 11010000
+Operand B: -23 = 11101001
+
+Binary subtraction:
+  11010000
+- 11101001
+----------
+Binary result : 11111001
+Decimal result: -25
+Overflow      : No
